@@ -20,4 +20,4 @@ def clean_images(folder):
     print(f"\nChecked: {checked} images")
     print(f"Removed: {removed} corrupted images")
 
-clean_images("data/raw/maize")
+clean_images("data/raw/maize_clean")

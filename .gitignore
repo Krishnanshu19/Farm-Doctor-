@@ -1,6 +1,31 @@
+# 🔒 Virtual Environment
 venv/
+.env/
+
+# 🧠 Python cache
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 📦 Data (DO NOT PUSH)
 data/
-*.h5
 *.pkl
+*.csv
+*.h5
+
+# 🧪 Jupyter / temp files
+.ipynb_checkpoints/
+*.ipynb
+
+# 🖼️ OS files
+.DS_Store
+Thumbs.db
+
+# ⚙️ VS Code / IDE
+.vscode/
+.idea/
+
+# 📊 Logs
 *.log
+
