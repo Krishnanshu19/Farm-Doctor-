@@ -1,7 +1,7 @@
 # 🔒 Virtual Environment
 venv/
 .env/
-
+node_modules/
 # 🧠 Python cache
 __pycache__/
 *.pyc
@@ -29,4 +29,3 @@ Thumbs.db
 # 📊 Logs
 *.log
 
-frontend/
